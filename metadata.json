@@ -1,0 +1,6 @@
+{
+  "name": "HTML Tool & Prompt Studio",
+  "description": "Interactive HTML tool builder and prompt generator for workshop participants to design custom tools with multi-input/output schemas and export standalone single-file HTML applications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
